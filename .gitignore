@@ -1,0 +1,10 @@
+datasets/*
+__pycache__/*
+*.pyc
+./save/*
+workspace/*
+*.sh
+save/*
+*.tar.gz
+*.txt
+*.png
